@@ -1,6 +1,6 @@
 ## Preparations
 ### Download Codes
-    $ git clone https://github.com/kyungsu-lee-ksl/Template.git
+    $ git clone https://github.com/kyungsu-lee-ksl/ACCV2022-Substitution-Learning.git
     $ cd Template/
     $ sudo python -m pip install -r requirements.txt
 
